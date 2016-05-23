@@ -1,2 +1,2 @@
-# glitz-and-groove
-Glitz and Groove Website
+# glitz-groove
+Glitz & Groove Website
